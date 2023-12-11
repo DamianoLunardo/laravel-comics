@@ -1,11 +1,18 @@
 .footer-list {
    display: flex;
    flex-direction: column;
+
+   li {
+       color: gray;
+   }
 }
 
 
 .bg-custom {
     background-image: url('../../img/footer-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .bg-gray {
@@ -23,4 +30,8 @@
     gap: 30px;
     align-items: center;
     padding-top: 30px;
+}
+
+.p-1 {
+    color: gray;
 }

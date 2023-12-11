@@ -10,7 +10,7 @@
 
 <div class="container">
     <ul class="bottom-header">
-        <li> <img src="{{ Vite::asset('resources/img/dc-logo.png') }}"></li>
+        <li> <img src="{{ Vite::asset('public/img/dc-logo.png') }}"></li>
         <li>CHARACTERS</li>
         <li>COMICS</li>
         <li>MOVIES</li>
