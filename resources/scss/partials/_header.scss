@@ -1,0 +1,22 @@
+.page-header {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.top-header {
+    float: right;
+    align-items: center;
+    margin-top: 5px;
+}
+
+.bottom-header {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin-top: 20px;
+}
+

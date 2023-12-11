@@ -1,1 +1,12 @@
 @import '~bootstrap/scss/bootstrap';
+@import './partials/_footer.scss';
+@import './partials/_header.scss';
+
+
+
+ul {
+    li {
+        list-style-type: none;
+        display: inline;
+    }
+}

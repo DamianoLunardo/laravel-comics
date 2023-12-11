@@ -1,0 +1,26 @@
+.footer-list {
+   display: flex;
+   flex-direction: column;
+}
+
+
+.bg-custom {
+    background-image: url('../../img/footer-bg.jpg');
+}
+
+.bg-gray {
+    background-color: gray;
+}
+
+.custom-footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-list-bottom {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    padding-top: 30px;
+}
